@@ -1,0 +1,1 @@
+print(sum(1 for _ in range(int(input().strip())) if input().strip().startswith('C')))
